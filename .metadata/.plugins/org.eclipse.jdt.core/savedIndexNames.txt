@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+E:\github\AAGroupCalculator\.metadata\.plugins\org.eclipse.jdt.core
+1645078551.index
+718044494.index
+1958746837.index
+2797792510.index
+1460920442.index
